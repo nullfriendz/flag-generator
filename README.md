@@ -1,6 +1,6 @@
 # CTF Flag Generator 🚩
 
-Easy to use and no specific requirement, just install Python 3.10.12 or above.
+Easy to use and no specific requirement, just install Python 3.10.12 or above on your machine.
 
 ## Usage 📖
 
@@ -9,6 +9,6 @@ python flag_generator.py
 ```
 
 - Input 1: CTF challenge/platform, for example: **picoCTF**
-- Input 2: Challenge title, for example: **FindMe**
-- Input 3: Generated string length to add after your title chall
-- Output: `picoCTF{FindMe__<generated_string>}`
+- Input 2: Challenge title, for example: **Find Me**
+- Input 3: Generated string length to add after your challenge title
+- Output: `picoCTF{Find_Me__<generated_string>}`
